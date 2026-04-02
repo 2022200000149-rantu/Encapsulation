@@ -9,7 +9,7 @@ public class Car {
     public Car(){
 
     }
-    // Parameterised Constructor method
+    // Parameterised Constructor
     public Car(int year, double price) {
         this.year = year;
         this.price = price;
